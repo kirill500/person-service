@@ -3,7 +3,6 @@ package telran.java53.person.model;
 import java.io.Serializable;
 import java.time.LocalDate;
 
-import org.springframework.boot.autoconfigure.amqp.RabbitConnectionDetails.Address;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
